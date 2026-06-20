@@ -1,0 +1,12 @@
+pandas
+numpy
+matplotlib
+seaborn
+geopandas
+folium
+plotly
+scikit-learn
+shapely
+requests
+tqdm
+pyyaml
