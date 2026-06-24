@@ -1,4 +1,4 @@
-# 🌍 Geo-Conflict Analysis Project (Pro-Level Pipeline)
+#  Geo-Conflict Analysis Project (Pro-Level Pipeline)
 
 [![Python Version](https://img.shields.io/badge/python-3.8%2B-blue.svg)](https://www.python.org/)
 [![Data Source](https://img.shields.io/badge/Data-ACLED%20/%20Kaggle-orange)](https://acleddata.com/)
@@ -7,7 +7,7 @@ An advanced, production-ready geospatial data science pipeline designed to analy
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```text
 Geo-Conflict-Analysis/
